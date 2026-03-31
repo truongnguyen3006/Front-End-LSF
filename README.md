@@ -132,3 +132,9 @@ Backend cần được khởi động trước để frontend có thể gọi AP
 - Frontend này không triển khai luồng thanh toán VNPAY
 - Giao diện được giữ ở mức đủ dùng để phục vụ luồng đặt hàng và phần demo tích hợp framework
 - Trọng tâm của project vẫn nằm ở framework chính và cách consumer ecommerce dùng để kiểm chứng tích hợp
+
+## Tác giả
+
+- **Tên:** Nguyễn Lâm Trường
+- **Email:** lamtruongnguyen2004@gmail.com
+- **GitHub:** [https://github.com/truongnguyen3006](https://github.com/truongnguyen3006)

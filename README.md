@@ -89,7 +89,7 @@ src/
 ### 1. Clone project
 
 ```bash
-git clone [<repo-url>](https://github.com/truongnguyen3006/Front-End-LSF.git)
+git clone https://github.com/truongnguyen3006/Front-End-LSF.git
 cd <project-folder>
 ```
 

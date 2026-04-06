@@ -24,7 +24,7 @@ export const systemLinks: SystemLinkItem[] = [
     key: 'phpmyadmin',
     label: 'phpMyAdmin',
     description: 'Mở nhanh MySQL để kiểm tra bảng và dữ liệu demo.',
-    url: process.env.NEXT_PUBLIC_PHPMYADMIN_URL || 'http://localhost:8085',
+    url: process.env.NEXT_PUBLIC_PHPMYADMIN_URL || 'http://localhost:8888',
   },
   {
     key: 'outbox',
